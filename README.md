@@ -2,8 +2,6 @@
 
 Desenvolvedor Front-end & UX/UI Designer
 
-Criando experiências digitais intuitivas, acessíveis e consistentes.
-
 [Portfólio](https://www.marcosc.dev) •
 [LinkedIn](https://www.linkedin.com/in/marcosacs) •
 [E-mail](mailto:marcosacs2@outlook.com)
