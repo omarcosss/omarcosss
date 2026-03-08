@@ -1,8 +1,6 @@
-## Olá 👋
-
-Desenvolvedor Front-end & UX/UI Designer
-
-[https://marcosc.dev/](https://www.marcosc.dev) 
+## Hi there 👋
+Frontend Developer & UX/UI Designer
+[https://marcosc.dev/](https://marcosc.dev)
 
 ---
 
